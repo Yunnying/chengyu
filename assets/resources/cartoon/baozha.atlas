@@ -1,0 +1,41 @@
+
+baozha.png
+size: 124,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng1
+  rotate: false
+  xy: 35, 74
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+cheng2
+  rotate: false
+  xy: 2, 77
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+cheng3
+  rotate: false
+  xy: 77, 64
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+cheng4
+  rotate: true
+  xy: 2, 30
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+diana
+  rotate: false
+  xy: 62, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

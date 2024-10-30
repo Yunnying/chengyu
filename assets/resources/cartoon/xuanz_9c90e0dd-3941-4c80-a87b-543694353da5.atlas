@@ -1,0 +1,48 @@
+
+xuanz.png
+size: 689,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon-12
+  rotate: false
+  xy: 577, 3
+  size: 110, 129
+  orig: 114, 135
+  offset: 2, 6
+  index: -1
+xuanz1_0
+  rotate: false
+  xy: 2, 2
+  size: 113, 130
+  orig: 129, 144
+  offset: 6, 6
+  index: -1
+xuanz1_1
+  rotate: false
+  xy: 117, 2
+  size: 113, 130
+  orig: 129, 144
+  offset: 6, 6
+  index: -1
+xuanz1_2
+  rotate: false
+  xy: 232, 2
+  size: 113, 130
+  orig: 129, 144
+  offset: 6, 6
+  index: -1
+xuanz1_3
+  rotate: false
+  xy: 347, 2
+  size: 113, 130
+  orig: 129, 144
+  offset: 6, 6
+  index: -1
+xuanz1_4
+  rotate: false
+  xy: 462, 2
+  size: 113, 130
+  orig: 129, 144
+  offset: 6, 6
+  index: -1
